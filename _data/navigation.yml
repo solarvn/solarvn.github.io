@@ -3,5 +3,9 @@ main:
     url: /about/
   - title: "Tin tức"
     url: /posts/
+  - title: "Sản phẩm"
+    url: /posts/
+  - title: "Liên hệ"
+    url: /contact/
 
 
