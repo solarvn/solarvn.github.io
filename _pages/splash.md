@@ -1,6 +1,5 @@
 ---
 permalink: /
-
 header:
   overlay_color: '#000'
   overlay_filter: '0.5'
@@ -34,4 +33,8 @@ feature_row:
     title: Placeholder 3
     excerpt: This is some sample content that goes here with **Markdown** formatting.
     btn_label: Read More
+published: true
 ---
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
