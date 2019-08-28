@@ -1,2 +1,4 @@
-
+---
+permalink: /contact/
+---
 ### Liên hệ
