@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 permalink: /product/
 
 feature_row:
