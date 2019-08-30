@@ -1,7 +1,9 @@
 ---
-layout: single
+title: Product
+layout: category
 permalink: /product/
-
+taxomony: product
+entries_layout: list
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
