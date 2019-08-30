@@ -1,6 +1,6 @@
 ---
 title: Điện mặt trời áp mái
-permarlink: /rooftop-solar/
+permalink: /rooftop-solar/
 layout: single
 ---
 
