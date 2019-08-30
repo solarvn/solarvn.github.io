@@ -3,7 +3,7 @@ title: "Baz Boom Identity"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   image: https://via.placeholder.com/1920x400
-  teaser: https://via.placeholder.com/150
+  teaser: https://via.placeholder.com/250x150
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
