@@ -1,7 +1,11 @@
 ---
 title: Product
-layout: category
+layout: collection
 permalink: /product/
-taxonomy: product
-entries_layout: list
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
+
+Sample document listing for the collection `_product`.
+
