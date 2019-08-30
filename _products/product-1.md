@@ -2,7 +2,7 @@
 title: "Baz Boom Identity"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
+  image: https://images.unsplash.com/photo-1497440001374-f26997328c1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80
   teaser: https://via.placeholder.com/150
 sidebar:
   - title: "Role"
