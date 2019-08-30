@@ -14,16 +14,16 @@ excerpt: >
 feature_row:
   - image_path: https://via.placeholder.com/250x150
     alt: "customizable"
-    title: "Super customizable"
+    title: "Điện mặt trời áp mái"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/rooftop-solar/"
+    url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://via.placeholder.com/250x150
     alt: "fully responsive"
-    title: "Responsive layouts"
+    title: "Điện mặt trời nhà xưởng"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    url: "/factory-solar/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://via.placeholder.com/250x150
