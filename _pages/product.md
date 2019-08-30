@@ -2,6 +2,6 @@
 title: Product
 layout: category
 permalink: /product/
-taxomony: product
+taxonomy: product
 entries_layout: list
 ---
