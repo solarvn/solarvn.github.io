@@ -1,4 +1,6 @@
 ---
+layout: single
+permalink: /product/
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
