@@ -107,6 +107,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _products
+  - scope:
+      path: ""
+      type: products
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
