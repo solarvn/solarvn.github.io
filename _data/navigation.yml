@@ -4,7 +4,7 @@ main:
   - title: "Tin tức"
     url: /posts/
   - title: "Sản phẩm"
-    url: /posts/
+    url: /product/
   - title: "Liên hệ"
     url: /contact/
 
