@@ -18,21 +18,21 @@ feature_row:
     excerpt: "Tư vấn cung cấp lắp đặt hệ thống điện mặt trời áp mái."
     url: "/rooftop-solar/"
     btn_class: "btn--primary"
-    btn_label: "Chi tiết"
+    btn_label: "Xem chi tiết"
   - image_path: /assets/images/Rooftop-solar-panels-.jpg
-    alt: "fully responsive"
+    alt: "Điện mặt trời nhà xưởng"
     title: "Điện mặt trời nhà xưởng"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/factory-solar/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Xem chi tiết"
   - image_path: https://via.placeholder.com/250x150
-    alt: "100% free"
-    title: "100% free"
+    alt: "Đèn chiếu sáng năng lượng mặt trời"
+    title: "Đèn chiếu sáng năng lượng mặt trời"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Xem chi tiết"      
 ---
 
 {% include feature_row %}
