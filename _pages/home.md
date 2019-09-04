@@ -19,7 +19,7 @@ feature_row:
     url: "/rooftop-solar/"
     btn_class: "btn--primary"
     btn_label: "Chi tiết"
-  - image_path: /assets/images/rooftop-solar-panels-.jpg
+  - image_path: /assets/images/Rooftop-solar-panels-.jpg
     alt: "fully responsive"
     title: "Điện mặt trời nhà xưởng"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
