@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "vi-VN"
-title: SolarSea
+title: KHSolar
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Cung cấp & lắp đặt hệ thống điện năng lượng mặt trời gia đình và công nghiệp.
