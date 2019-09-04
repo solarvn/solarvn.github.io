@@ -9,8 +9,8 @@ header:
     - label: "<i class='fas fa-download'></i> Download bảng báo giá"
       url: "/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6">Latest release v4.16.6</a></small>
+  Cung cấp lắp đặt hệ thống điện năng lượng mặt trời gia đình và công nghiệp.<br />
+  
 feature_row:
   - image_path: https://via.placeholder.com/250x150
     alt: "customizable"
