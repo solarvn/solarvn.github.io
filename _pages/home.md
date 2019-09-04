@@ -12,13 +12,13 @@ excerpt: >
   Cung cấp lắp đặt hệ thống điện năng lượng mặt trời gia đình và công nghiệp.<br />
   
 feature_row:
-  - image_path: https://via.placeholder.com/250x150
-    alt: "customizable"
+  - image_path: /assets/images/super-solar-rooftop.jpg
+    alt: "solar roottop"
     title: "Điện mặt trời áp mái"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "Tư vấn cung cấp lắp đặt hệ thống điện mặt trời áp mái."
     url: "/rooftop-solar/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Chi tiết"
   - image_path: https://via.placeholder.com/250x150
     alt: "fully responsive"
     title: "Điện mặt trời nhà xưởng"
