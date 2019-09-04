@@ -12,7 +12,7 @@ excerpt: >
   Cung cấp lắp đặt hệ thống điện năng lượng mặt trời gia đình và công nghiệp.<br />
   
 feature_row:
-  - image_path: /assets/images/super-solar-rooftop.jpg
+  - image_path: /assets/images/solar-rooftop-system.jpg
     alt: "solar roottop"
     title: "Điện mặt trời áp mái"
     excerpt: "Tư vấn cung cấp lắp đặt hệ thống điện mặt trời áp mái."
