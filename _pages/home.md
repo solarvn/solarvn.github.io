@@ -6,8 +6,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/scott-webb-68GdK1Aoc8g-unsplash.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-download'></i> Download bảng báo giá"
+      url: "/"
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6">Latest release v4.16.6</a></small>
