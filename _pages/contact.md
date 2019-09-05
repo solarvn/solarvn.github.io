@@ -2,7 +2,7 @@
 permalink: /contact/
 ---
 
-<p>Địa chỉ: Lô 33 đường 8D Khu đô thị LeeHoongf Phong 2, Tp.Nha Trang, tỉnh Khánh Hòa</p>
+<p>Địa chỉ: Lô 33 đường 8D Khu đô thị Lê Hồng Phong 2, Tp.Nha Trang, tỉnh Khánh Hòa</p>
 <p>Điện thoại: </p>
 <p>Email:</p>
 
