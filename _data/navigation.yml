@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Tin tức"
     url: /posts/
+  - title: "Giải pháp"
+    url: /giai-phap/
   - title: "Sản phẩm"
     url: /product/
   - title: "Liên hệ"
