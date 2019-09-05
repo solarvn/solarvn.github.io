@@ -28,7 +28,7 @@ feature_row:
     btn_label: "Xem chi tiết"
   - image_path: https://via.placeholder.com/250x150
     alt: "Đèn chiếu sáng năng lượng mặt trời"
-    title: "Đèn chiếu sáng năng lượng mặt trời"
+    title: "LED & Đèn chiếu sáng năng lượng mặt trời"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/docs/license/"
     btn_class: "btn--primary"
