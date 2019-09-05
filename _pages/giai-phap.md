@@ -1,8 +1,8 @@
 ---
 title: Giải pháp
 layout: collection
-permalink: /product/
-collection: products
+permalink: /giai-phap/
+collection: giai-phap
 entries_layout: list
 classes: wide
 ---
