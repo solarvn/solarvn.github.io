@@ -26,7 +26,7 @@ feature_row:
     url: "/factory-solar/"
     btn_class: "btn--primary"
     btn_label: "Xem chi tiết"
-  - image_path: https://via.placeholder.com/250x150
+  - image_path: /assets/images/best-lighting-outdoor-malaysia.jpg
     alt: "Đèn chiếu sáng năng lượng mặt trời"
     title: "LED & Đèn chiếu sáng năng lượng mặt trời"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
